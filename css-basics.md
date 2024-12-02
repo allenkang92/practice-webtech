@@ -1,3 +1,25 @@
+# CSS 기초
+
+**버전**: 1.0.0  
+**최종 수정일**: 2024-01-20
+
+## 목차
+- [1. CSS 이해하기](#1-css-이해하기)
+  - [CSS 소개](#css-소개)
+  - [CSS 문법과 적용](#css-문법과-적용)
+- [2. CSS 선택자](#2-css-선택자)
+  - [기본 선택자](#기본-선택자)
+  - [결합자](#결합자)
+  - [의사 클래스와 의사 요소](#의사-클래스와-의사-요소)
+- [3. 박스 모델](#3-박스-모델)
+  - [박스 모델 구성 요소](#박스-모델-구성-요소)
+  - [박스 사이징](#박스-사이징)
+- [4. 레이아웃](#4-레이아웃)
+  - [디스플레이](#디스플레이)
+  - [포지션](#포지션)
+  - [플렉스박스](#플렉스박스)
+  - [그리드](#그리드)
+
 # 4. CSS 이해하기
 
 ## 1) CSS 소개
@@ -448,3 +470,16 @@ body { background-color: lightpink; }
 - `initial-scale=1.0`: 초기 화면 배율을 1.0(100%)으로 설정
 
 반응형 웹 디자인의 기본, 모바일 기기에서 웹 페이지가 적절하게 표시되도록 함.
+
+### 더 알아보기
+- [CSS Tricks](https://css-tricks.com/)
+- [MDN CSS 가이드](https://developer.mozilla.org/ko/docs/Web/CSS)
+- [CSS 레이아웃](https://ko.learnlayout.com/)
+
+### 실습하기
+예제 코드는 [examples/styles.css](examples/styles.css)에서 확인할 수 있습니다.
+
+### 유용한 도구
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [Flexbox Froggy](https://flexboxfroggy.com/#ko)
+- [CSS Diner](https://flukeout.github.io/)
