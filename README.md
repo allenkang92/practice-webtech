@@ -1,4 +1,4 @@
-# Web-Tech-Fundamentals
+# learning-web-tech
 
 웹 기술(HTML, CSS)의 기본 개념 정리
 
