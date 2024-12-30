@@ -2,8 +2,6 @@
 
 웹 기술(HTML, CSS)의 기본 개념 정리
 
-**버전**: 1.0.0  
-**최종 수정일**: 2024-01-20
 
 ## 목차
 
@@ -37,7 +35,3 @@
 - [MDN Web Docs](https://developer.mozilla.org/)
 - [W3Schools](https://www.w3schools.com/)
 - [네이버 부스트코스](https://www.boostcourse.org/cs120/)
-
-## 라이선스
-
-이 프로젝트는 MIT 라이선스 하에 제공됩니다.
